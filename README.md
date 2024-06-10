@@ -1,3 +1,3 @@
 # nextjs.tutorial
 # Created by Greg J
-# This is a code wiht Mosh to create a issue log.
+# This is a code with Mosh to create a issue log.
